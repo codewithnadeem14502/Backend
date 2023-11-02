@@ -1,0 +1,12 @@
+->express
+-> express intsall
+-> express boiler plate
+    -> npm search expres and copy boilder 
+-> express ejs setup
+  -> install ejs
+  -> set view engine
+  -> create view folder
+  -> create ejs file
+  -> render ejs file under router
+-> express static file setup
+-> arhitecture of public folder
