@@ -43,3 +43,8 @@ button {
   height: 5rem;
   font-size: medium;
 }
+.error {
+  color: red;
+  font-size: medium;
+  font-weight: 700;
+}
