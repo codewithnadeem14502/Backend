@@ -19,9 +19,9 @@ const schema = new mongoose.Schema({
     required: true,
   },
   createdAt: {
-    type: date,
+    type: Date,
     default: Date.now,
   },
 });
 
-export const User = mongoose.model("user", schema);
+export const Task = mongoose.model("Task", schema);
